@@ -1,1 +1,5 @@
 #!/bin/bash
+<<<<<<< HEAD
+=======
+printf '%x\n' $DECIMAL
+>>>>>>> 529464c776bc53a854829a570bf7fa72c521b8e7
