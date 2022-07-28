@@ -12,17 +12,11 @@ Basic tools for website debugging
 * [Difference between 127.0.0.1 and 0.0.0.0](https://www.howtogeek.com/225487/what-is-the-difference-between-127.0.0.1-and-0.0.0.0/)
 
 ## Description of Files
-<h6>0-localhost</h6>
-Answer to multiple choice
-
-<h6>1-wildcard</h6>
-Answer to multiple choice
-
-<h6>2-change_your_home_IP</h6>
+<h6>0-change_your_home_IP</h6>
 Script to change home IP
 
-<h6>3-show_attached_IPs</h6>
+<h6>1-show_attached_IPs</h6>
 Show all ip's from ifconfig inet addr
 
-<h6>4-port_listening_on_localhost</h6>
+<h6>100-port_listening_on_localhost</h6>
 listen to a port in bash
